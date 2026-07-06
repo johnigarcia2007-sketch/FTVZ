@@ -1,6 +1,6 @@
  - name: Close Stale Issues
   uses: actions/stale@v10.3.0
-  with:
+  with:[![.github/workflows/main.yml](https://github.com/johnigarcia2007-sketch/FTVZ/actions/workflows/main.yml/badge.svg)](https://github.com/johnigarcia2007-sketch/FTVZ/actions/workflows/main.yml)
     # Token for the repository. Can be passed in using `{{ secrets.GITHUB_TOKEN }}`.
     repo-token: # optional, default is ${{ github.token }}
     # The message to post on the issue when tagging it. If none provided, will not mark issues stale.
